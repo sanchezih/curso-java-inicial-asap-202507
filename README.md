@@ -1,1 +1,1 @@
-# curso-java-inicial-asap-202507-p
+# curso-java-inicial-asap-202507
