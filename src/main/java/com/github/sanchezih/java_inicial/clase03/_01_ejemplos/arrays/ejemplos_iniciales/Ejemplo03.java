@@ -3,10 +3,10 @@ package com.github.sanchezih.java_inicial.clase03._01_ejemplos.arrays.ejemplos_i
 import com.github.sanchezih.util.io.Consola;
 
 /**
- * Programa que busca un numero entero dentro de un array de 5 enteros.
+ * Programa que busca un numero dentro de un array de 5 enteros.
  * 
  * Todos los numeros se leen por teclado. Si se encuentra el numero buscado, se
- * informa la posicion.Si no, se informa que no fue encontrado.
+ * informa la posicion. Si no, se informa que no fue encontrado.
  * 
  * @author ihsanch
  */

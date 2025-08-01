@@ -1,8 +1,7 @@
 package com.github.sanchezih.java_inicial.clase03._01_ejemplos.arrays.ejemplos_iniciales;
 
 /**
- * Ejemplo simple de uso de arrays en Java Muestra como declarar, inicializar y
- * recorrer un array
+ * Ejemplo que muestra como declarar, inicializar y recorrer un array
  * 
  * @author ihsanch
  */
